@@ -1,2 +1,2 @@
-# impulsa
+# Impulsa
 Projecte MAPGD
