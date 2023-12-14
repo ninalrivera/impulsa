@@ -14,7 +14,9 @@ from Degree import Degree
 user = User(["I","S"])
 user.get_degrees()
 
-#Now we save the degrees in a file called degrees.txt
+#Now we save the degrees in a file called degrees.txt and if the file exists just erase it and create a new one
+with open("degrees.txt", "w", encoding='utf-8') as file:
+    file.write("")
 for i in range(len(user._degrees)):
     with open("degrees.txt", "a", encoding='utf-8') as file:
         file.write(str(user._degrees[i]))
