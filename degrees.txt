@@ -1,0 +1,54 @@
+----
+ Grado_ID: GU-038
+Grado: Ciencia de la Nutrici�n Humana
+Universidad: Universidad Nacional Aut�noma de M�xico
+COD_UNI: 
+UNAMPrecio anual: $0.50
+Duración: 4 años 
+---
+
+----
+ Grado_ID: GU-008
+Grado: Ciencias Forenses
+Universidad: Instituto Polit�cnico Nacional
+COD_UNI: 
+IPNPrecio anual: $1,200.00
+Duración: 4 años 
+---
+
+----
+ Grado_ID: GU-043
+Grado: Medicina
+Universidad: Universidad Nacional Aut�noma de M�xico
+COD_UNI: 
+UNAMPrecio anual: $128.43
+Duración: 6,5 años 
+---
+
+----
+ Grado_ID: GU-002
+Grado: Nutrici�n Cl�nica
+Universidad: Benem�rita Universidad Aut�noma de Puebla
+COD_UNI: 
+BUAPPrecio anual: $2,000.00
+Duración: 4 años 
+---
+
+----
+ Grado_ID: GU-001
+Grado: Biomedicina
+Universidad: Benem�rita Universidad Aut�noma de Puebla
+COD_UNI: 
+BUAPPrecio anual: $2,000.00
+Duración: 4 años 
+---
+
+----
+ Grado_ID: GU-018
+Grado: Ingenier�a Biom�dica
+Universidad: Tecnol�gico de Monterrey
+COD_UNI: 
+ITESMPrecio anual: $309,600.00
+Duración: 4 años 
+---
+
